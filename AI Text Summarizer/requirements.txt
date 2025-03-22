@@ -1,0 +1,5 @@
+Flask==2.0.3
+transformers==4.21.3
+torch==2.6.0   # Match the version required by torchvision and torchaudio
+torchvision==0.21.0   # Add torchvision explicitly
+torchaudio==2.6.0     # Add torchaudio explicitly
